@@ -1,0 +1,8 @@
+purchase domain from godaddy
+and the domain space
+core ftp software
+get username and password
+index will be the file name accessed by default
+
+CSS
+* apply to all elements
