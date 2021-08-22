@@ -1,6 +1,6 @@
-# Personal-Portfolios
+# Mock portfolios
 
-This Repository consists of different versions of my portfolios. Each of these reflect my progression in the field of web development from the basics.
+This Repository consists of different versions of portfolios. Each of these reflect my progression in the field of web development from the basics.
 I have explained all the versions in detail below.
 
 Personal-Portfolio1-HTML5 : 
